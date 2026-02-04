@@ -2,7 +2,7 @@
 
 🎓 B.Tech Computer Science & Engineering freshman
 💻 Interested in programming, web development, AI & cloud
-🛠️ Currently learning C++, Java, and web technologies
+🛠️ Currently learning C, CSS, HTML and web technologies
 🚀 Building small projects to improve problem-solving skills
 
 📌 Goal: Become a skilled software engineer and work on impactful real-world projects
