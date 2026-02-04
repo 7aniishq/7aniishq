@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I’m Tanishq
 
-<!--
-**7aniishq/7aniishq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering freshman
+💻 Interested in programming, web development, AI & cloud
+🛠️ Currently learning C++, Java, and web technologies
+🚀 Building small projects to improve problem-solving skills
 
-Here are some ideas to get you started:
+📌 Goal: Become a skilled software engineer and work on impactful real-world projects
+📖 Always learning, experimenting, and growing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to Reach Me
+LinkedIn: https://www.linkedin.com/in/tanishq-yadav-a5367636a/
+Email: tanishq2006yadav@gmail.com
