@@ -3,6 +3,7 @@
 🎓 B.Tech Computer Science & Engineering freshman
 
 💻 Interested in programming Cyber Security
+
 🛠️ Currently learning C, CSS, HTML and web technologies
 
 🚀 Building small projects to improve problem-solving skills
